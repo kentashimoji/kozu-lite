@@ -1,0 +1,7 @@
+# 電子公図データ抽出Webアプリ - 最小構成
+
+streamlit
+geopandas
+pandas
+requests
+beautifulsoup4
